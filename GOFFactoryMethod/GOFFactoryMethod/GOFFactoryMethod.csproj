@@ -38,6 +38,7 @@
   <ItemGroup>
     <Compile Include="CreatorNotFoundException.cs" />
     <Compile Include="ICreator.cs" />
+    <Compile Include="IFactory.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
